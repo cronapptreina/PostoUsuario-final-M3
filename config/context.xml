@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><Context>
     <Resource accessToUnderlyingConnectionAllowed="true" driverClassName="org.h2.Driver" logAbandoned="true" name="jdbc/main" password="roor" profile="DEV" removeAbandoned="false" removeAbandonedTimeout="60" type="javax.sql.DataSource" url="jdbc:h2:file:~/PostoV2;AUTO_SERVER=TRUE;DATABASE_TO_UPPER=FALSE;ALIAS_COLUMN_NAME=TRUE" username="root"/>
-    <Resource accessToUnderlyingConnectionAllowed="false" driverClassName="com.mysql.jdbc.Driver" logAbandoned="true" name="jdbc/PostoUsuario" password="o9p2n784r8o3r089" profile="DEV" removeAbandoned="false" removeAbandonedTimeout="60" schema="" type="javax.sql.DataSource" url="jdbc:mysql://rds-oncronos-shared.cx8gelec2ybx.us-east-1.rds.amazonaws.com:3306/c5fb8084-3f3e-49db-9c2a-784e8b3e089b?createDatabaseIfNotExist=true" username="p5so80843s3r49qo"/>
-    <Profile value="DEV"/>
+  <Profile value="DEV"/>
 </Context>
